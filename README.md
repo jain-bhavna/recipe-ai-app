@@ -24,6 +24,13 @@ cd recipe-ai-app
 
 
 ---
+### ML MODEL
+Download from here
+https://drive.google.com/file/d/1vSp-D_ZpkI5DIsyHYCv0bprKSKiwwm7l/view?usp=sharing
+
+Place file at:
+
+backend/ml/food101_efficientnet.pt
 
 ## 2. Backend Setup
 
